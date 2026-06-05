@@ -2,10 +2,10 @@
 
 Static website for AR Trafaret.
 
-GitHub Pages URLs after publishing this folder to a repository named `artrafaret-site`:
+GitHub Pages URLs:
 
-- Home: `https://YOUR_GITHUB_USERNAME.github.io/artrafaret-site/`
-- Support: `https://YOUR_GITHUB_USERNAME.github.io/artrafaret-site/support.html`
-- Privacy Policy: `https://YOUR_GITHUB_USERNAME.github.io/artrafaret-site/privacy.html`
+- Home: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/`
+- Support: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/support.html`
+- Privacy Policy: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/privacy.html`
 
 Use the Support and Privacy Policy URLs in App Store Connect.
