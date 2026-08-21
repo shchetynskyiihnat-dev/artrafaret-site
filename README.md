@@ -8,5 +8,6 @@ GitHub Pages URLs:
 - Support: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/support.html`
 - Privacy Policy: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/privacy.html`
 - Terms of Use: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/terms.html`
+- AdMob authorization: `https://shchetynskyiihnat-dev.github.io/artrafaret-site/app-ads.txt`
 
-Use the Support, Privacy Policy, and Terms of Use URLs in App Store Connect.
+Use the Support, Privacy Policy, and Terms URLs in App Store Connect.
